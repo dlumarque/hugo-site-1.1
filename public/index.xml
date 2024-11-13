@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dor&#39;s November Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Dor&#39;s November Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 13:15:28 -1000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Tue, 12 Nov 2024 13:15:28 -1000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin-top: 50px;&#34;&gt;&#xA;  &lt;h1 style=&#34;&#xA;    font-size: 2.5em; &#xA;    font-weight: bold; &#xA;    background: repeating-linear-gradient(270deg, #8f8dbe, #3398c9, #2adb57, #0b294f, #2adb57, #3398c9, #8f8dbe);&#xA;    background-size: 600%; /* Large enough to create the smooth transition */&#xA;    -webkit-background-clip: text; &#xA;    color: transparent; &#xA;    animation: gradientMove 4s linear infinite;&#xA;  &#34;&gt;&#xA;    dlumarque+developer@gmail.com&#xA;  &lt;/h1&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;@keyframes gradientMove {&#xA;  0% { background-position: 0%; }&#xA;  100% { background-position: 100%; }&#xA;}&#xA;&lt;/style&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 12 Nov 2024 12:59:05 -1000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/wow_orange.gif&#34; alt=&#34;wow_wow&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;You found it!&#xA;I am a baby web developer and writer, but growing fast. Fueled by a passion for learning and expression, I am dedicated to mastering my craft and sharing my fruits with anyone I come across. Since you made it here, take this! A &lt;a href=&#34;#&#34;&gt;token of my appreciation&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LIVE: Soliciting Blog Names!!</title>
+      <link>https://example.org/posts/seven/</link>
+      <pubDate>Tue, 12 Nov 2024 09:18:01 -1000</pubDate>
+      <guid>https://example.org/posts/seven/</guid>
+      <description>&lt;p&gt;At one point while brainstorming what to call this place I found myself in a toss up between &amp;ldquo;I&amp;rsquo;m a Developer Baby&amp;rdquo; and &amp;ldquo;I&amp;rsquo;m a Baby Developer&amp;rdquo;, and realized right away that NEITHER would do well in communicating clearly in my desired connotation what I was trying to say. The first option makes me sound both like I&amp;rsquo;m the product of a seasoned developer (or pair of developers), and thus naturally am a developer myself, and/or that I&amp;rsquo;ve undergone some specialized training to be where I am, à-la-&amp;ldquo;Designer Baby&amp;rdquo;. What even &lt;em&gt;is&lt;/em&gt; a designer baby, anyway?   [update: a quick google read reminded me that it&amp;rsquo;s the very real, if overhyped, term for babies who have been genetically altered in some way for perceived benefit &amp;ndash; ie. modifying a gene or set of genes in order to create HIV resistance. This is actually a wild and cool concept that is understandably pretty stigmatized, but discussing this further will digress too far from the original purpose of this article. ahem.]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What’s Next on My Coding Journey?</title>
+      <link>https://example.org/posts/six/</link>
+      <pubDate>Mon, 11 Nov 2024 09:12:25 -1000</pubDate>
+      <guid>https://example.org/posts/six/</guid>
+      <description>&lt;p&gt;As I continue my coding journey, I’m always looking for ways to improve my skills and challenge myself with new concepts. Here’s a quick update on the next steps I’m planning to take:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-deepen-my-knowledge-of-javascript&#34;&gt;1. Deepen My Knowledge of JavaScript&lt;/h3&gt;&#xA;&lt;p&gt;JavaScript is essential in modern web development, and while I’ve learned the basics, there’s so much more to explore. My goal is to become more proficient in advanced JavaScript concepts like closures, asynchronous programming with Promises and &lt;code&gt;async/await&lt;/code&gt;, and more intricate DOM manipulation. Mastering these concepts will help me build more dynamic, efficient applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring the PaperMod Theme in Hugo</title>
+      <link>https://example.org/posts/four/</link>
+      <pubDate>Sun, 10 Nov 2024 08:38:35 -1000</pubDate>
+      <guid>https://example.org/posts/four/</guid>
+      <description>&lt;p&gt;If you’re looking to build a clean, minimalist blog with Hugo, the &lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/&#34;&gt;PaperMod theme&lt;/a&gt; is an excellent choice. With a design inspired by paper and focused on readability, PaperMod makes it easy to create an elegant blog. Here’s how to set it up and explore some of its standout features.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-installing-the-papermod-theme&#34;&gt;1. Installing the PaperMod Theme&lt;/h2&gt;&#xA;&lt;p&gt;First, navigate to your Hugo site’s root directory in your terminal, then clone the PaperMod theme:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a Simple Blog with Hugo in One Weekend</title>
+      <link>https://example.org/posts/three/</link>
+      <pubDate>Sat, 09 Nov 2024 08:38:12 -1000</pubDate>
+      <guid>https://example.org/posts/three/</guid>
+      <description>&lt;p&gt;Creating a personal blog with Hugo is a fun, straightforward project that can be completed in a weekend. Follow these steps to get your blog up and running:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-install-hugo&#34;&gt;1. Install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;First, &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;install Hugo&lt;/a&gt; on your machine. You can use Homebrew on macOS:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew install hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-create-a-new-hugo-site&#34;&gt;2. Create a New Hugo Site&lt;/h2&gt;&#xA;&lt;p&gt;Open your terminal and run:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site my-blog&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This command sets up your blog’s directory structure with all the files you’ll need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Best Free Resources for Learning Coding</title>
+      <link>https://example.org/posts/five/</link>
+      <pubDate>Sun, 03 Nov 2024 09:12:21 -1000</pubDate>
+      <guid>https://example.org/posts/five/</guid>
+      <description>&lt;p&gt;If you’re looking to learn coding without spending a fortune, there are tons of free resources to help you get started. Here are some of the best options to kick off your coding journey!&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-freecodecamphttpswwwfreecodecamporg&#34;&gt;1. &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;freeCodeCamp offers an extensive range of courses in web development, JavaScript, Python, data science, and more. Each course is hands-on, providing interactive exercises to practice your skills as you learn. With a focus on practical projects, freeCodeCamp is ideal for beginners and those looking to build a coding portfolio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Chose Hugo for My Blog Project</title>
+      <link>https://example.org/posts/second-post/</link>
+      <pubDate>Fri, 01 Nov 2024 07:59:50 -1000</pubDate>
+      <guid>https://example.org/posts/second-post/</guid>
+      <description>&lt;p&gt;When I got the idea to make a light blog-style website for practice, I started looking for a static site generator that was fast, flexible, and easy to work with. After researching various options, I landed on Hugo—and it’s been a great experience so far.&lt;/p&gt;&#xA;&lt;p&gt;One major reason is &lt;strong&gt;speed&lt;/strong&gt;. Hugo is known for its impressive build times; it can generate a site with thousands of pages in seconds. Since it’s written in Go, Hugo compiles content almost instantly, which means I can make changes and see results immediately. This efficiency has kept my workflow smooth and fast, especially useful when making frequent updates or tweaks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

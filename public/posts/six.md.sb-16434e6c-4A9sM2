@@ -1,0 +1,26 @@
++++
+date = '2024-11-11T09:12:25-10:00'
+draft = true
+title = 'What’s Next on My Coding Journey?'
++++
+
+As I continue my coding journey, I’m always looking for ways to improve my skills and challenge myself with new concepts. Here’s a quick update on the next steps I’m planning to take:
+
+## 1. Deepen My Knowledge of JavaScript
+JavaScript is essential in modern web development, and while I’ve learned the basics, there’s so much more to explore. My goal is to become more proficient in advanced JavaScript concepts like closures, asynchronous programming with Promises and `async/await`, and more intricate DOM manipulation. Mastering these concepts will help me build more dynamic, efficient applications.
+
+## 2. Dive into Frontend Frameworks
+Frontend frameworks like React, Vue, and Svelte are popular for building complex web applications, and I’m eager to explore them further. I plan to start with **React**, as its component-based structure and huge ecosystem make it an excellent choice for developing scalable applications. Eventually, I’d love to compare React to Vue and Svelte to understand each framework’s strengths.
+
+## 3. Experiment with Backend Development
+Although I’ve primarily focused on frontend work, understanding the backend is essential to becoming a full-stack developer. I’ll start with **Node.js** and **Express**, using them to build simple APIs and work with databases like MongoDB. My goal is to create a full-stack project that connects frontend and backend components.
+
+## 4. Contribute to Open Source
+One of the best ways to learn is by doing, and contributing to open-source projects seems like a great opportunity. I’ll be looking for beginner-friendly issues on GitHub to start contributing to projects that align with my interests. This will allow me to collaborate with other developers, learn best practices, and give back to the coding community.
+
+## 5. Start Building a Portfolio
+Finally, I want to start showcasing my projects by creating an online portfolio. Not only will this be a good way to keep track of my progress, but it will also allow potential collaborators or employers to see my skills in action. Using **Hugo** for my blog project was a great start, and I’ll use it to host the portfolio as well.
+
+---
+
+Each of these steps will bring new challenges and opportunities to grow as a developer. I’m excited to keep pushing my skills forward and to see where this journey takes me next!
